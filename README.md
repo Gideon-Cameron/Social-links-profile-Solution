@@ -1,5 +1,8 @@
 # 👤 Social Links Profile – Frontend Mentor Challenge
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ccdb7ddc-83d9-41a6-a8ee-0395024008ba/deploy-status)](https://app.netlify.com/sites/social-links-xl/deploys)
+![License](https://img.shields.io/github/license/Gideon-Cameron/Social-links-profile-Solution)
+![Stars](https://img.shields.io/github/stars/Gideon-Cameron/Social-links-profile-Solution?style=social)
 
 A responsive personal profile card built with HTML and CSS, showcasing social media links in a clean and modern layout. Originally a [Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ) challenge.
 
